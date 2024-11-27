@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "My First Post",
+      "content": "This is the first post in my blog."
+    },
+    {
+      "id": "2",
+      "title": "My Second Post",
+      "content": "This is the second post in my blog."
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "postId": 1,
+      "author": "John Doe",
+      "content": "This is a comment on my first post."
+    },
+    {
+      "id": "2",
+      "postId": 2,
+      "author": "Jane Smith",
+      "content": "This is a comment on my second post."
+    }
+  ],
+  "users": []
+}
